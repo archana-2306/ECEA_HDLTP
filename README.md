@@ -5,8 +5,9 @@
 ## Week 2
 #### Learned the syntax and done program for 2-bit full adder
 ##### Syntax is basically like C program. It is case sensitive and we can use only small letters for variable declaration. Starting of the variable holder should not be numbers are special characters.
+##### To pass the arguments we use . operator here. Like C it has its own precedence in the usage of operators where braces and parenthesis are at top priority followed by logical negotion and negotion and resuction operators.
 
-#### Design file
+#### Design file of two bit full adder
 
 ![Screenshot (113)](https://user-images.githubusercontent.com/100028556/195990214-144f3b76-f03d-4f95-831c-e272310698ad.png)
 
