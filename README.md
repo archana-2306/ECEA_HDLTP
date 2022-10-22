@@ -87,3 +87,19 @@ cicuits.                          | circuits.                                  |
 
 #### Design File
 
+<img width="353" alt="image" src="https://user-images.githubusercontent.com/100028556/197332536-e28e3d04-7ad9-4e6b-a8a0-1bb9b8e49aed.png">
+
+#### Simulation file
+
+<img width="691" alt="image" src="https://user-images.githubusercontent.com/100028556/197332590-7f409bc2-07dd-4d9e-86e8-d1369d2136ac.png">
+
+#### Schematic
+
+<img width="749" alt="image" src="https://user-images.githubusercontent.com/100028556/197332636-7ee09b06-f168-4045-ac73-5163602c9420.png">
+
+#### Output
+
+<img width="620" alt="image" src="https://user-images.githubusercontent.com/100028556/197332517-e6e46e86-0373-4f7b-ae8d-c81eaed19363.png">
+
+#### End of week 3 assignments
+
