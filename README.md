@@ -32,3 +32,35 @@
 #### Input and Output values
 
 <img width="307" alt="image" src="https://user-images.githubusercontent.com/100028556/195990297-99f31fe8-34b6-4cb3-a098-abd45a8def1d.png">
+
+## WEEK 3
+
+### Modelling types 
+
+###  Gatelevel Modelling                |             Dataflow Modelling                     |           Behavioural Modelling
+#### ------------------------------------------------------------------------------------------------------------------------------------------------
+### Verilog contains primitive gate     |    Dataflow modelling means a continuous           |   Behavioural modelling uses different
+### types. So we can use gate level     |    assignment of outputs through operators.        |   statements like initial, always, case etc.
+### modelling for basic combinatorial   |    It is also used in designing combinatorial      |   It is used to design complex circuits such as l 
+### cicuits.                            |    circuits.                                       |   Sequentia circuits and pure Combinatorial circuits.
+
+### 2- bit Full Adder with Carry contains 5 inputs and 3 outputs. C0 , A0, B0 and A1, B1 are inputs whereas Cout, S1, S0 are outputs. 
+### Gatelevel Modelling of 2-bit full Adder
+
+### Design file
+
+<img width="305" alt="image" src="https://user-images.githubusercontent.com/100028556/197327628-e398dea2-8b29-4c02-82fd-bad43a240ced.png">
+
+### Simulation file
+
+<img width="716" alt="image" src="https://user-images.githubusercontent.com/100028556/197327662-5f6f9d21-4639-4f11-b5d1-261124ef320a.png">
+
+### Schematic
+
+<img width="748" alt="image" src="https://user-images.githubusercontent.com/100028556/197327697-cbe4a4b0-e322-4b1c-89c9-b35bf9ea8a54.png">
+
+### Output
+
+<img width="740" alt="image" src="https://user-images.githubusercontent.com/100028556/197327736-adab1ebe-b15d-4b6a-9b77-71e04dcde060.png">
+
+
