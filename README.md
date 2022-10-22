@@ -37,12 +37,12 @@
 
 ### Modelling types 
 
-###  Gatelevel Modelling                |             Dataflow Modelling                     |           Behavioural Modelling
+###  Gatelevel Modelling  &nbsp;  &nbsp;            |    &nbsp;&nbsp;         Dataflow Modelling    &nbsp;&nbsp;                 |      &nbsp;&nbsp;     Behavioural Modelling &nbsp;&nbsp;
 #### ------------------------------------------------------------------------------------------------------------------------------------------------
-##### Verilog contains primitive gate &nbsp;    |    Dataflow modelling means a continuous           |   Behavioural modelling uses different
-##### types. So we can use gate level &nbsp;    |    assignment of outputs through operators.        |   statements like initial, always, case etc.
-##### modelling for basic combinatorial &nbsp;  |    It is also used in designing combinatorial      |   It is used to design complex circuits such as l 
-##### cicuits.                     &nbsp;       |    circuits.                                       |   Sequentia circuits and pure Combinatorial circuits.
+##### Verilog contains primitive gate &nbsp;    | &nbsp;   Dataflow modelling means a continuous &nbsp; &nbsp;&nbsp;          | &nbsp;  Behavioural modelling uses different
+##### types. So we can use gate level &nbsp;    | &nbsp;   assignment of outputs through operators.  &nbsp;&nbsp;      | &nbsp;  statements like initial, always, case etc.
+##### modelling for basic combinatorial &nbsp;  | &nbsp;   It is also used in designing combinatorial &nbsp;     | &nbsp;  It is used to design complex circuits such as l 
+##### cicuits.&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;   | &nbsp;   circuits.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   |   &nbsp; Sequentia circuits and pure Combinatorial circuits.
 
 ### 2- bit Full Adder with Carry contains 5 inputs and 3 outputs. C0 , A0, B0 and A1, B1 are inputs whereas Cout, S1, S0 are outputs. 
 ### Gatelevel Modelling of 2-bit full Adder
