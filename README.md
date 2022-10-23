@@ -1,18 +1,5 @@
 # ECEA_HDLTP 
 ### HDL - Hardware Definition Language. This is a training course on Verilog. We do learn things and do assignments based on those. 
-## Week 1
-#### This week we have installed the software and being get used to the software.
-#### Vivado installed & Full adder
-
-![Screenshot (109)](https://user-images.githubusercontent.com/100028556/195990023-3f0eb63c-9846-42ed-9e5b-2c05e1c3014e.png)
-
-#### Input and Output
-
-![HDL week1](https://user-images.githubusercontent.com/100028556/195991108-f5493a5f-0c7a-4e63-8468-dbcf75f05865.jpeg)
-
-#### RTL Design
-
-![HDL week1 (2)](https://user-images.githubusercontent.com/100028556/195991071-2757292c-bf7a-4a9f-aa92-531f1ac982f2.jpeg)
 
 ## Week 2
 #### Learned the syntax and done program for 2-bit full adder
