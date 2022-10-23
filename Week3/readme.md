@@ -1,4 +1,5 @@
 ###  This is the third week of HDL trainig program
+### Types of Modelling
 
 <pre>
 Gatelevel Modelling               |           Dataflow Modelling               |          Behavioural Modelling 
