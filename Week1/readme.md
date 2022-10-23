@@ -52,6 +52,11 @@ endmodule : full_add_tb
 
 ![image](https://user-images.githubusercontent.com/100028556/197371735-bb2a8265-5a20-4142-8f19-d0a724f15297.png)
 
-### RTL Design
+### RTL Simulation Output
 
+![image](https://user-images.githubusercontent.com/100028556/195991071-2757292c-bf7a-4a9f-aa92-531f1ac982f2.jpeg)
+
+### Input and Output
+
+![image](https://user-images.githubusercontent.com/100028556/195991108-f5493a5f-0c7a-4e63-8468-dbcf75f05865.jpeg)
 
