@@ -48,3 +48,10 @@ module full_add_tb;
  initial begin $monitor(" time=%0d A=%b B=%b Cin=%b Sum=%b Cout=%b",$time,a,b,cin,sum,cout);end
 endmodule : full_add_tb
 </pre>
+### TCL Console output
+
+![image](https://user-images.githubusercontent.com/100028556/197371735-bb2a8265-5a20-4142-8f19-d0a724f15297.png)
+
+### RTL Design
+
+
