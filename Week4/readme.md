@@ -1,5 +1,6 @@
 ### Week 4
 ### Designing Combinatorial circuits using verilog
+#### HALF ADDER
 #### DESIGN FILE
 
 <pre>
