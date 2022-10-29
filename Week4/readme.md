@@ -1,6 +1,6 @@
 ### Week 4
 ### Designing Combinatorial circuits using verilog
-### DESIGN FILE
+#### DESIGN FILE
 
 <pre>
 module half_adder(a,b,s,c);
@@ -13,7 +13,7 @@ module half_adder(a,b,s,c);
 endmodule: half_adder
 </pre>
 
-### TESTBENCH 
+#### TESTBENCH 
 
 <pre>
 module half_adder_tb;
