@@ -1,6 +1,6 @@
 ## This the first week of our HDL Program. We have installed the vivado software and learned the basic syntax.
 ### The first program on verilog is to design a full adder. 
-### Design file using verilog
+### Design       file using verilog
 <pre>
 // Code your design : Full Adder
 module full_add(a,b,cin,sum,cout);
