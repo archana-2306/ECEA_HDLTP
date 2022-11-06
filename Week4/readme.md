@@ -91,3 +91,41 @@ endmodule: full_adder_tb
 
 ### MULTIPLEXER
 
+#### Multiplexer is a combinatorial circuit where it selects information from one of many inputs and directs it to a single output line
+
+#### Design file
+
+<pre>
+
+module mux(I0,I1,S,Out);
+      input I0,I1,S;
+      output Out;
+      // DATALEVEL Model
+      assign Out = S ? I0:I1;
+endmodule : mux
+</pre>
+
+#### TestBench
+
+<pre>
+module mux_tb;
+    reg I0,I1,S;
+    wire Out;
+    
+    mux mux1(.I0(I0),.I1(I1),.S(S),.Out(Out));
+    integer i; 
+    initial begin
+        $dumpfile("mux.vcd");
+        $dumpvars(0,mux_tb);
+        $monitor($time,"I0 = %b, I1 = %b, S = %b, Out = %b",I0,I1,S,Out);
+        
+        for (i=0; i<7; i = i+1) 
+        begin
+            #5 {I0,I1,S} = i;
+        end
+        #100 $finish;
+    end
+endmodule : mux_tb
+</pre>
+
+
