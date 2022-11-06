@@ -128,4 +128,12 @@ module mux_tb;
 endmodule : mux_tb
 </pre>
 
+#### RTL Design
 
+<img width="691" alt="image" src="https://user-images.githubusercontent.com/100028556/200158385-bae86cb0-1789-4fc6-bab7-4f1214e4d19e.png">
+
+#### Output
+
+<img width="304" alt="image" src="https://user-images.githubusercontent.com/100028556/200158406-99714b67-341a-49e5-abe0-ae67e166f02d.png">
+
+### DeMultiplexer
