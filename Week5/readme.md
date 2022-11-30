@@ -50,3 +50,16 @@ end
 endmodule 
 </pre>
 #### Simulated Output
+
+![image](https://user-images.githubusercontent.com/100028556/204744554-cbc1473b-30f7-48ba-8881-8d86888dae13.png)
+
+#### RTL Design
+
+![image](https://user-images.githubusercontent.com/100028556/204744611-e3362ae2-3770-4905-8c95-96a1712b605e.png)
+
+### JK FF
+#### Verilog Code
+
+
+
+
